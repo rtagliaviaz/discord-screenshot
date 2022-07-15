@@ -211,6 +211,6 @@ I really hope you have been able to follow the post without any trouble, otherwi
 
 [You can also contact me by discord.](Appu#9136)
 
-[You can clone the repo if you want.](https://github.com/rtagliaviaz/cryptocurrency-discord-bot)
+[You can clone the repo if you want.](https://github.com/rtagliaviaz/discord-screenshot/)
 
 Thank you for your time.
