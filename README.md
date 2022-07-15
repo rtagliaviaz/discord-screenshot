@@ -1,5 +1,3 @@
-discord bot to take picture at certain time
-
 In the following post we will learn how to make a discord bot that will take ascreenshot of a site and pass it to a discord channel.
 
 for this example we will use discord.js, i assume that you already know how to create and configure the bot, in case you don't know how to in this [post](https://dev.to/rtagliavia/how-to-create-a-discord-bot-with-discordjs-and-nodejs-plb) I explain it step by step 
